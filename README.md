@@ -144,8 +144,3 @@ Clustering results are evaluated using silhouette scores and visual inspection.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-```
-
-This is the **complete** README format that you can use directly in your GitHub project. Let me know if anything else is needed!
-```
-
